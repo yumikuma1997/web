@@ -17,11 +17,15 @@
    </div><br />
    <div class="container">
       <label for="publisher">出版社:</label><br />
-      <input type="publisher" id="" name="publisher" />
+      <input type="publisher" id="publisher" name="publisher" />
    </div><br />
    <div class="container">
       <label for="genre">本のジャンル:</label><br />
       <input type="genre" id="genre" name="genre" />
+   </div></br />
+   <div class="container">
+      <label for="language">言語:</label><br />
+      <input type="language" id="language" name="language" />
    </div>
 </body>
 </html>
