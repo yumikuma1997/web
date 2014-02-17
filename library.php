@@ -14,6 +14,10 @@
    <div class="container">
       <label for="author">著者:</label><br />
       <input type="author" id="author" name="author" />
+   </div><br />
+   <div class="container">
+      <label for="publisher">出版社:</label><br />
+      <input type="publisher" id="" name="publisher" />
    </div>
 </body>
 </html>
