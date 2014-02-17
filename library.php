@@ -18,6 +18,10 @@
    <div class="container">
       <label for="publisher">出版社:</label><br />
       <input type="publisher" id="" name="publisher" />
+   </div><br />
+   <div class="container">
+      <label for="genre">本のジャンル:</label><br />
+      <input type="genre" id="genre" name="genre" />
    </div>
 </body>
 </html>
