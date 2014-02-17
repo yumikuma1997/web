@@ -26,6 +26,12 @@
    <div class="container">
       <label for="language">言語:</label><br />
       <input type="language" id="language" name="language" />
-   </div>
+   </div><br />
+   <div class="container">
+      <label for="pages">ページ数:</label><br />
+      <input type="pages" id="pages" name="pages" />
+   </div><br />
+   <input type="submit" value="保存する" />
+</form>
 </body>
 </html>
